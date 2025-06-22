@@ -2,9 +2,7 @@
 
 Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Nuxt UI docs](https://ui.nuxt.com) to learn more.
 
-# Create a new Nuxt project with Nuxt UI. This template extends the default Nuxt UI template with some additional configurations.
-
-Note: If you're using pnpm, ensure that you either set `shamefully-hoist=true` in your `.npmrc` file or install `tailwindcss` in your project's root directory.
+Create a new Nuxt project with Nuxt UI. This template extends the default Nuxt UI template with some additional configurations.
 
 ```bash
 npx nuxi@latest init my-app -t ui

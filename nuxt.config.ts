@@ -8,14 +8,14 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/fonts',
     '@pinia/nuxt',
-    '@vueuse/nuxt'
+    '@vueuse/nuxt',
   ],
 
   css: ['~/assets/css/main.css'],
 
   future: {
-    compatibilityVersion: 4
+    compatibilityVersion: 4,
   },
 
-  compatibilityDate: '2024-11-27'
-})
+  compatibilityDate: '2025-06-24',
+});
